@@ -1,7 +1,7 @@
 # snapcode-dummy-app
 The app uses the logic pulled from the Snapchat app to generate Snapcodes (in the form of an SVG string) with particular sets of data. This string is then copied to the device's clipboard (yes, very hacky) to be rendered offline.
 
-I used this to create a mapping between the dots in a Snapcode and the bitstring of the underlying data. Read the full blog post on how I used this mapping to read the contents of Snapcodes here: [link]()
+I used this to create a mapping between the dots in a Snapcode and the bitstring of the underlying data. Read the full blog post on how I used this mapping to read the contents of Snapcodes here: [link](https://labs.ioactive.com/2021/12/cracking-snapcode.html)
 
 
 
